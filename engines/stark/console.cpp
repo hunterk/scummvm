@@ -43,6 +43,8 @@
 
 #include "common/file.h"
 
+#include <climits>
+
 namespace Stark {
 
 Console::Console() :

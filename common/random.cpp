@@ -23,6 +23,8 @@
 #include "common/system.h"
 #include "gui/EventRecorder.h"
 
+#include <climits>
+
 
 namespace Common {
 
